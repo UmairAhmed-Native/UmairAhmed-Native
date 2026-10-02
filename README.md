@@ -8,7 +8,7 @@
 <a href="https://github.com/UmairAhmed-Native"><img src="https://img.shields.io/badge/GITHUB-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/umair-ahmed-028857119/"><img src="https://img.shields.io/badge/LINKEDIN-174BFF?style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:umairahmed2k15@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-174BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-<a href="./Umair_Ahmed_Mobile_Engineer.docx"><img src="https://img.shields.io/badge/VIEW_RESUME-174BFF?style=for-the-badge&logo=readme&logoColor=white" alt="View resume"></a>
+<a href="./Umair_Ahmed_Mobile_Engineer.pdf"><img src="https://img.shields.io/badge/VIEW_RESUME-174BFF?style=for-the-badge&logo=readme&logoColor=white" alt="View resume"></a>
 
 **[umairahmed2k15@gmail.com](mailto:umairahmed2k15@gmail.com) &nbsp; · &nbsp; +92 335 321 8152**
 
@@ -155,7 +155,7 @@ Iqra University, Karachi · 2015 – 2019
 
 <div align="center">
 
-**[Email](mailto:umairahmed2k15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/umair-ahmed-028857119/) · [GitHub](https://github.com/UmairAhmed-Native) · [Resume](./Umair_Ahmed_Mobile_Engineer.docx)**
+**[Email](mailto:umairahmed2k15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/umair-ahmed-028857119/) · [GitHub](https://github.com/UmairAhmed-Native) · [Resume](./Umair_Ahmed_Mobile_Engineer.pdf)**
 
 **Umair Ahmed / Mobile Engineer**  
 Karachi, Pakistan · Building since 2019
